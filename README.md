@@ -4,7 +4,7 @@ We explore the calibration of LLMs on Code Summarization: can an LLM's token pro
 This repository stores code to replicate experiments in the paper [Calibration of Large Language Models on Code
 Summarization](https://arxiv.org/pdf/2404.19318) (FSE 2025).
 
-Data and some results files are omitted due to their large size. All data is accessible at: https://zenodo.org/records/11646569
+Data is omitted due to large size. All data is accessible at: https://zenodo.org/records/11646569
 
 If you have difficulty working with the code or need additional details, let me know: yuvivirk344 at gmail dot com
 
