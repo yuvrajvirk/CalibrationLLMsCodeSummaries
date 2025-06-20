@@ -199,7 +199,7 @@ def prompt_code_llama(model, messages):
     headers = {
         "accept": "application/json",
         "content-type": "application/json",
-        "Authorization": "Bearer 9c64e32d4da7da57ad79b203b28b6582c4467dca72b110793289615ad83bb751"
+        "Authorization": "REPLACE"
     }
 
     import requests
